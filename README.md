@@ -1,7 +1,11 @@
 # test
 
-A new project repository.
+A testing area for my builds, designs and ideas.
 
-## About
+## What's here
 
-This repository is just getting started. More details will be added as the project grows.
+This is my sandbox: a place to try things out, experiment, and work on early drafts before they become full projects.
+
+- **Builds**: apps, sites and code experiments
+- **Designs**: mock-ups, layouts and visual concepts
+- **Ideas**: rough notes and concepts worth exploring
